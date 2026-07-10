@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Welcome to my website. I'll publish my work or some interesting note about what I am learning lately.
+I still learning coding so it's not a perfect website but I'll make it better in the future.
 <!--
 **Logoswei/logoswei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
